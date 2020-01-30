@@ -1,0 +1,11 @@
+body {
+  margin-right: 20%;
+  margin-left: 20%;
+}
+.banner {
+  border: 5px solid #d3d3d3;
+  background-color: #eeeeee;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
